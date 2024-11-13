@@ -1,12 +1,21 @@
 #################### default parameters ################################
 logo = "images/logo.png"
 logo_width = "200px"
-# OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+description = "鸿升科技 - 专业的广告设计与技术开发服务商"
+author = "鸿升科技"
+image = "images/logo.png"
+contact_form_action = "https://formspree.io/f/your-form-id"
+
+[navigation_button]
+enable = true
+label = "立即咨询"
+link = "contact"
+
+[cookies]
+enable = true
+expire_days = 2
+content = "本网站使用cookies以提供更好的服务体验。继续使用本网站即表示您同意我们使用cookies。"
+button = "我同意"
 
 # Type of pages to be rendered with a blog view
 blogCategoryType = "category"
@@ -16,20 +25,17 @@ blogCategoryType = "category"
 enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
-# Navigation buttons
-[navigation_button]
-enable = true
-label = "Get Started"
-link = "contact"
-
-# cookies
-[cookies]
-enable = false
-expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
-  
 ############################# social site ########################
+[[social]]
+title = "微信"
+icon = "fab fa-weixin"
+link = "#"
+
+[[social]]
+title = "抖音"
+icon = "fab fa-tiktok"
+link = "#"
+
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
@@ -49,3 +55,14 @@ link = "#"
 title = "linkedin"
 icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"
+
+# English metadata
+[en.metadata]
+keywords = ["advertising design", "brand design", "website development", "mini program development", "technical development"]
+author = "HongSheng Tech"
+robots = "index, follow"
+
+# English Open Graph
+[en.open_graph]
+site_name = "HongSheng Tech"
+description = "Professional Advertising Design & Technical Development Services"

@@ -1,65 +1,56 @@
 # main menu
 [[main]]
-name = "Home"
+name = "首页"
 url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
+name = "新闻动态"
 url = "blog/"
 weight = 2
 
 [[main]]
-name = "Pricing"
+name = "服务价格"
 url = "pricing/"
 weight = 3
 
 [[main]]
-name = "Contact"
+name = "联系我们"
 url = "contact/"
 weight = 4
 
 [[main]]
-name = "FAQ"
+name = "常见问题"
 url = "faq/"
 weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
+name = "关于我们"
 url = "#"
 
 [[footer_left]]
-name = "Quick Start"
-url = "#"
-
-[[footer_left]]
-name = "Pricing"
+name = "服务项目"
 url = "pricing/"
-
 
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
-url = "pricing/"
-
-[[footer_middle]]
-name = "Platform"
+name = "设计服务"
 url = "#"
 
 [[footer_middle]]
-name = "Features"
+name = "技术开发"
 url = "#"
 
 # footer menu right
 [[footer_right]]
-name = "Privacy Policy"
+name = "隐私政策"
 url = "privacy-policy/"
 
 [[footer_right]]
-name = "Terms & Conditions"
+name = "服务条款"
 url = "terms-conditions/"
 
 [[footer_right]]
-name = "FAQ"
+name = "常见问题"
 url = "faq/"

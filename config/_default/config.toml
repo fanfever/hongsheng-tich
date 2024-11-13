@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://fanfever.github.io/hongsheng-tich/"
-title = "hongsheng-tich"
-theme = "hongsheng-tich"
+title = "鸿升科技 - 专业的广告设计与技术开发服务"
+theme = "bigspring-light"
 # post pagination
 paginate = "3"
 # post excerpt

@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "Professional Advertising Design & Technical Development Services"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "HongSheng Tech is committed to providing high-quality advertising design and technical development services to help businesses enhance their brand image and achieve business growth"
   button:
     enable : true
     label : "Contact Us"
@@ -12,102 +12,69 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Our Advantages"
   feature_item:
-    # feature item loop
-    - name : "Clean Code"
-      icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Creative Design"
+      icon : "fas fa-palette"
+      content : "Professional design team providing creative advertising solutions"
       
-    # feature item loop
-    - name : "Object Oriented"
-      icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Technical Development"
+      icon : "fas fa-laptop-code"
+      content : "Full-stack development capabilities for websites and applications"
       
-    # feature item loop
-    - name : "24h Service"
-      icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Quality Service"
+      icon : "fas fa-award"
+      content : "Committed to providing high-quality service and customer satisfaction"
       
-    # feature item loop
-    - name : "Value For Money"
-      icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Professional Team"
+      icon : "fas fa-users"
+      content : "Experienced team with expertise in design and development"
       
-    # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Timely Delivery"
+      icon : "fas fa-clock"
+      content : "Strict project management ensuring on-time delivery"
       
-    # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
+    - name : "Continuous Support"
+      icon : "fas fa-headset"
+      content : "Comprehensive after-sales support and maintenance service"
 
 
 ######################### Service #####################
 service:
   enable : true
   service_item:
-    # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "Advertising Design & Production"
       images:
       - "images/service-1.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Providing professional services including graphic design, VI design, and advertising production to help enterprises create unique brand images. Our design team is experienced and skilled at understanding client needs, creating designs with both creativity and commercial value."
       button:
         enable : true
-        label : "Check it out"
+        label : "Learn More"
         link : "#"
         
-    # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "Technical Development Services"
       images:
-      - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - "images/service-2.png" 
+      content : "Professional technical team providing website construction, mini program development, and system development services. Using advanced technical architecture to ensure system security, stability, and scalability, helping enterprises achieve digital transformation."
       button:
         enable : true
-        label : "Check it out"
-        link : "#"
-        
-    # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
-      images:
-      - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
-        enable : true
-        label : "Check it out"
-        link : "#"
-        
-    # service item loop
-    - title : "A company standing different from others"
-      images:
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
-        enable : true
-        label : "Check it out"
+        label : "Learn More"
         link : "#"
         
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Experience the best <br> workflow with us"
+  title : "Create the Future Together"
   image : "images/screenshot.svg"
-
-  
 
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "Ready to Start Cooperation?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Contact HongSheng Tech, let us provide professional advertising design and technical development services for your business"
   button:
     enable : true
-    label : "Contact Us"
+    label : "Contact Now"
     link : "contact/"
 ---

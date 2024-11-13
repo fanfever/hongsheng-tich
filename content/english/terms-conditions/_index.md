@@ -1,31 +1,48 @@
 ---
-title: "Terms of Service"
+title: "Terms & Conditions"
 subtitle: ""
-# meta description
-description: "This is meta description"
+description: "HongSheng Tech Terms & Conditions"
 draft: false
 ---
 
-#### Responsibility of Contributors
+#### Service Content
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+HongSheng Tech's services include but are not limited to:
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+- Advertising Design Services
+- Brand Design Services
+- Website Construction Services
+- Technical Development Services
 
-#### Gathering of Personal Information
+#### Intellectual Property
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+- Design works created for clients, the intellectual property rights belong to the clients
+- Design proposals before project completion, the intellectual property rights belong to our company
+- Without authorization, our design works shall not be copied or distributed
 
-#### Protection of  Personal- Information
+#### Service Guarantee
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+We commit to:
+- Provide professional quality service
+- Complete projects on schedule
+- Protect client's business secrets
+- Provide after-sales technical support
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+#### Payment Terms
 
-#### Privacy Policy Changes
+- Project deposit: 50% of total amount
+- Completion payment: 50% of total amount
+- Payment method: Bank transfer or other agreed methods
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+#### Project Timeline
+
+- Design projects: Timeline will be specified in contract
+- Development projects: Timeline based on project scope
+- Modifications: Within agreed revision times
+
+#### Confidentiality
+
+We strictly maintain:
+- Client information confidentiality
+- Project content confidentiality
+- Business secrets protection

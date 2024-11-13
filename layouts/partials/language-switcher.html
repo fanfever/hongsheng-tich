@@ -1,0 +1,17 @@
+<div class="language-switcher">
+  {{ $siteLanguages := site.Languages }}
+  {{ $pageLang := .Page.Lang }}
+  
+  <div class="dropdown">
+    <button class="btn btn-sm btn-light dropdown-toggle" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      {{ $pageLang | upper }}
+    </button>
+    <div class="dropdown-menu" aria-labelledby="languageDropdown">
+      {{ range .Site.Languages }}
+        {{ if ne .Lang $pageLang }}
+          <a class="dropdown-item" href="{{ . | relURL }}">{{ .LanguageName }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</div> 
