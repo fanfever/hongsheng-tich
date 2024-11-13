@@ -1,0 +1,32 @@
+*.class
+/target/
+target/
+.project
+.settings/
+.classpath
+.factorypath
+
+im.ipr
+im.iws
+*-local-dev.yml
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+/tmp
+/tmpreply
+.DS_Store
+D:/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# idea ignore
+/.idea/*
+*.iml
+/tmpreply
+/tmp
