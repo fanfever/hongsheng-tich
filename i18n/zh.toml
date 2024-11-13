@@ -1,0 +1,38 @@
+[readmore]
+other = "阅读更多"
+
+[translations]
+other = "语言"
+
+[error404]
+other = "抱歉，这里似乎什么都没有。"
+
+[yourname]
+other = "您的姓名"
+
+[youremail]
+other = "您的邮箱"
+
+[channel]
+other = "了解渠道"
+
+[channel_friend]
+other = "朋友推荐"
+
+[channel_search]
+other = "搜索引擎"
+
+[channel_social]
+other = "社交媒体"
+
+[channel_other]
+other = "其他渠道"
+
+[subject]
+other = "主题"
+
+[yourmessage]
+other = "您的留言"
+
+[sendnow]
+other = "立即发送"

@@ -1,0 +1,39 @@
+[readmore]
+other = "Weiterlesen"
+
+[translations]
+other="Übersetzungen"
+
+[error404]
+other = "Es tut uns wirklich leid aber hier scheint es nichts zu geben."
+
+[yourname]
+other = "Ihr Name"
+
+[youremail]
+other = "Ihre Email"
+
+[channel_friend]
+other = "Empfehlung von Freunden"
+
+[channel_search]
+other = "Suchmaschine"
+
+[channel_social]
+other = "Soziale Medien"
+
+[channel_other]
+other = "Andere Kanäle"
+
+[channel]
+other = "Wie haben Sie uns gefunden?"
+
+[subject]
+other = "Betreff"
+
+[yourmessage]
+other = "Ihre Nachricht"
+
+[sendnow]
+other = "Abschicken"
+
