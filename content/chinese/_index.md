@@ -9,7 +9,7 @@ banner:
     label : "联系我们"
     link : "contact/"
 
-##################### Feature ##########################
+##################### Feature ########################## 
 feature:
   enable : true
   title : "我们的优势"
