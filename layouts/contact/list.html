@@ -6,6 +6,7 @@
     <div class="row">
       <div class="col-lg-7 mb-4 mb-lg-0">
         <form action="{{ site.Params.contact_form_action | safeURL }}" method="POST">
+          <input type="hidden" name="access_key" value="31bb6c0f-9133-48f0-b4c1-6ed3b01eb4a5">
           <!-- 基本信息 -->
           <div class="row">
             <div class="col-md-6">
@@ -31,6 +32,12 @@
           <!-- 主题和留言 -->
           <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="{{ i18n `subject` }}" required>
           <textarea name="message" id="message" class="form-control mb-3" placeholder="{{ i18n `yourmessage` }}" rows="4" required></textarea>
+
+          <!-- 蜜罐陷阱 -->
+          <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+
+          <!-- 重定向 -->
+          <input type="hidden" name="redirect" value="{{ .Site.BaseURL }}contact/thank-you">
 
           <button type="submit" class="btn btn-primary">{{ i18n `sendnow` }}</button>
             </form>

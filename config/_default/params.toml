@@ -6,7 +6,7 @@ description = "鸿升科技 - 专业的广告设计与技术开发服务商"
 author = "鸿升科技"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
-contact_form_action = "https://formspree.io/f/your-form-id" # contact form works with https://formspree.io
+contact_form_action = "https://api.web3forms.com/submit" # contact form works with https://formspree.io
 
 # Type of pages to be rendered with a blog view
 blogCategoryType = "category"
