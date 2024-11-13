@@ -1,7 +1,7 @@
 ---
-title: "Neuigkeiten"
+title: "Neueste Nachrichten"
 subtitle: ""
 # meta description
-description: "Dies ist die Metabeschreibung"
+description: "HongSheng Tech Nachrichten und Updates"
 draft: false
 ---

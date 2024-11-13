@@ -1,61 +1,51 @@
 ---
-title: "Preise"
+title: "Servicepreise"
 subtitle: ""
 # meta description
-description: "Dies ist die Metabeschreibung"
+description: "HongSheng Tech Servicepreise"
 draft: false
 
 basic:
-  name : "Basis Plan"
-  price: "€49"
-  price_per : "Monat"
-  info : "Ideal für KMUs"
+  name : "Basis-Paket"
+  price: "€149"
+  price_per : "ab"
+  info : "Geeignet für kleine Unternehmen"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+    - "Grafikdesign-Service"
+    - "Markendesign-Service"
+    - "Werbeproduktion-Service"
   button:
     enable : true
-    label : "Kostenlos starten"
-    link : "#"
-    
-professional:
-  name : "Professional Plan"
-  price: "€49"
-  price_per : "Monat"
-  info : "Ideal für Professionals"
-  services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  - "Cloud Service"
-  - "Best Dashboard"
-  button:
-    enable : true
-    label : "Kostenlos starten"
-    link : "#"
-    
-business:
-  name : "Business Plan"
-  price: "€49"
-  price_per : "Monat"
-  info : "Ideal für Unternehmen"
-  services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  button:
-    enable : true
-    label : "Kostenlos starten"
-    link : "#"
+    label : "Jetzt kontaktieren"
+    link : "contact/"
 
-call_to_action:
-  enable : true
-  title : "Need a larger plan?"
-  image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+professional:
+  name : "Professional-Paket"
+  price: "€449"
+  price_per : "ab"
+  info : "Geeignet für mittlere Unternehmen"
+  services:
+    - "Grafikdesign-Service"
+    - "Markendesign-Service"
+    - "Werbeproduktion-Service"
+    - "Website-Entwicklung"
+    - "Technische Entwicklung"
   button:
     enable : true
-    label : "Contact Us"
+    label : "Jetzt kontaktieren"
+    link : "contact/"
+
+business:
+  name : "Enterprise-Paket"
+  price: "€749"
+  price_per : "ab"
+  info : "Geeignet für große Unternehmen"
+  services:
+    - "Komplette Markenplanung"
+    - "Vollständiger Design-Service"
+    - "Maßgeschneiderte Entwicklung"
+  button:
+    enable : true
+    label : "Jetzt kontaktieren"
     link : "contact/"
 ---

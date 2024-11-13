@@ -2,11 +2,11 @@
 logo = "images/logo.png"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
+description = "鸿升科技 - 专业的广告设计与技术开发服务商"
+author = "鸿升科技"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/your-form-id" # contact form works with https://formspree.io
 
 # Type of pages to be rendered with a blog view
 blogCategoryType = "category"
@@ -19,17 +19,27 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation buttons
 [navigation_button]
 enable = true
-label = "Get Started"
+label = "立即咨询"
 link = "contact"
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "本网站使用cookies以提供更好的服务体验。继续使用本网站即表示您同意我们使用cookies。"
+button = "我同意"
   
 ############################# social site ########################
+[[social]]
+title = "微信"
+icon = "fab fa-weixin"
+link = "#"
+
+[[social]]
+title = "抖音"
+icon = "fab fa-tiktok"
+link = "#"
+
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons

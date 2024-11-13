@@ -1,7 +1,7 @@
 ############################# English ############################
 [en]
 languageName = "En"
-title = "Bigspring Hugo"
+title = "HongSheng Tech"
 contentDir = "content/english" # content/english
 weight = 1
 
@@ -10,24 +10,42 @@ weight = 1
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "HongSheng Tech is committed to providing professional design and technical services for enterprises"
 # copyright
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright © 2024 HongSheng Tech"
+
+
+
+############################# Chinese ############################
+[zh]
+languageName = "中文"
+title = "鸿升科技"
+contentDir = "content/chinese"
+weight = 2
+
+[zh.params]
+########### footer content ##########
+footer_menu_left = "公司"
+footer_menu_middle = "产品"
+footer_menu_right = "支持"
+footer_content = "鸿升科技致力于为企业提供专业的设计与技术服务"
+# copyright
+copyright = "版权所有 © 2024 鸿升科技"
 
 
 
 ############################# Deutsch ############################
 [de]
 languageName = "De"
-title = "Bigspring Hugo"
-contentDir = "content/deutsch" # content/german
-weight = 2
+title = "HongSheng Tech"
+contentDir = "content/deutsch"
+weight = 3
 
 [de.params]
 ########### footer content ##########
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
+footer_menu_left = "Unternehmen"
+footer_menu_middle = "Produkt"
 footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "HongSheng Tech ist bestrebt, professionelle Design- und technische Dienstleistungen für Unternehmen anzubieten"
 # copyright
-copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright © 2024 HongSheng Tech"

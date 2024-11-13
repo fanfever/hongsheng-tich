@@ -1,61 +1,51 @@
 ---
-title: "Pricing"
+title: "Service Pricing"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "HongSheng Tech Service Pricing"
 draft: false
 
 basic:
   name : "Basic Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Small Individuals"
+  price: "$149"
+  price_per : "Starting from"
+  info : "Suitable for Small Businesses"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+    - "Graphic Design Service"
+    - "Brand Design Service"
+    - "Advertising Production Service"
   button:
     enable : true
-    label : "Get started for free"
-    link : "#"
-    
+    label : "Contact Now"
+    link : "contact/"
+
 professional:
   name : "Professional Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Professionals"
+  price: "$449"
+  price_per : "Starting from"
+  info : "Suitable for Medium Businesses"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  - "Cloud Service"
-  - "Best Dashboard"
+    - "Graphic Design Service"
+    - "Brand Design Service"
+    - "Advertising Production Service"
+    - "Website Development Service"
+    - "Technical Development Service"
   button:
     enable : true
-    label : "Get started for free"
-    link : "#"
-    
-business:
-  name : "Business Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Large Individuals"
-  services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  button:
-    enable : true
-    label : "Get started for free"
-    link : "#"
+    label : "Contact Now"
+    link : "contact/"
 
-call_to_action:
-  enable : true
-  title : "Need a larger plan?"
-  image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+business:
+  name : "Enterprise Plan"
+  price: "$749"
+  price_per : "Starting from"
+  info : "Suitable for Large Businesses"
+  services:
+    - "Complete Brand Planning"
+    - "Full Design Service"
+    - "Custom Development Service"
   button:
     enable : true
-    label : "Contact Us"
+    label : "Contact Now"
     link : "contact/"
 ---

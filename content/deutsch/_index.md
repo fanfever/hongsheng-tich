@@ -1,50 +1,38 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Lassen Sie uns Ihre kritischen Herausforderungen bei der Website <br> Entwicklung lösen"
+  title : "Professionelle Werbedesign- und technische Entwicklungsdienstleistungen"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "HongSheng Tech ist bestrebt, qualitativ hochwertige Werbedesign-Produktion und technische Entwicklungsdienstleistungen anzubieten, um Unternehmen dabei zu helfen, ihr Markenimage zu verbessern und Geschäftswachstum zu erzielen"
   button:
     enable : true
-    label : "Contact Us"
+    label : "Kontaktieren Sie uns"
     link : "contact/"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Unsere Vorteile"
   feature_item:
-    # feature item loop
-    - name : "Clean Code"
-      icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Object Oriented"
-      icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "24h Service"
-      icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Value For Money"
-      icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
+    - name : "Kreatives Design"
+      icon : "fas fa-paint-brush"
+      content : "Professionelles Designteam, das kreative Werbedesignlösungen anbietet"
 
+    - name : "Technische Entwicklung"
+      icon : "fas fa-code"
+      content : "Full-Stack-Entwicklungsfähigkeiten, Website-Erstellung und Mini-Programm-Entwicklung"
+
+    - name : "Schnelle Reaktion"
+      icon : "fas fa-tachometer-alt"
+      content : "24-Stunden-Reaktion auf Kundenanforderungen, zeitnaher und effizienter Service"
+
+    - name : "Qualitätssicherung"
+      icon : "fas fa-award"
+      content : "Aufmerksamkeit für Detailqualität, perfekte Lieferung jedes Projekts"
+
+    - name : "One-Stop-Service"
+      icon : "fas fa-tools"
+      content : "Von der kreativen Planung bis zur Fertigstellung, vollständige Prozessunterstützung"
 
 ######################### Service #####################
 service:

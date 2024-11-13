@@ -1,15 +1,15 @@
 ---
-title: "Contact Us"
+title: "Contact"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "HongSheng Tech Contact Information"
 draft: false
 ---
 
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+### Why Choose Us?
+HongSheng Tech is your trusted partner. We focus on advertising design production and technical development services, with a professional team and rich industry experience, committed to providing high-quality, innovative solutions for customers.
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Phone: +86 150 1153 1063**
+* **Email: xuwenjuan@outlook.com**
+* **Address: Room 218, Building 3, Yurun Garden, Shahe Town, Changping District, Beijing**
